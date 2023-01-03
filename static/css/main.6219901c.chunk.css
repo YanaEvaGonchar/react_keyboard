@@ -1,0 +1,2 @@
+iframe{display:none}html{font-family:"Courier New",Courier,monospace}body{display:flex;justify-content:center;align-items:center;height:100vh;background-color:beige}.App{background-color:#deb887;padding:50px 80px;border-radius:15px;border:1px solid #000;transition:-webkit-transform .3s ease-in-out;transition:transform .3s ease-in-out;transition:transform .3s ease-in-out,-webkit-transform .3s ease-in-out}.App:hover{-webkit-transform:scale(1.1);transform:scale(1.1)}
+/*# sourceMappingURL=main.6219901c.chunk.css.map */
